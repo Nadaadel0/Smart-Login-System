@@ -1,0 +1,56 @@
+/* sm */
+@media (min-width:576px) {
+
+    .log{
+        width: 60%;
+   
+    }
+    .reg{
+        width: 60%;
+   
+    }
+}
+
+/* md */
+@media (min-width:768px) {
+    
+}
+
+/* lg */
+@media (min-width:992px) {
+    .log{
+        width: 70%;
+   
+    }
+    .reg{
+        width: 70%;
+   
+    }
+
+    .welcome{
+
+
+   
+        width:70%;
+        }
+}
+
+/* xl */
+@media (min-width:1200px) {
+    .log{
+        width: 54%;
+   
+    }
+    .reg{
+        width: 54%;
+   
+    }
+    .welcome{
+
+        width:53%;
+        }
+
+}
+
+/* 2xl */
+@media (min-width:1400px) {}
